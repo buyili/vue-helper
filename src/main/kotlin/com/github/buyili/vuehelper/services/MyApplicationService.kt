@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.buyili.vuehelper.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.buyili.vuehelper.MyBundle
 
 class MyApplicationService {
 
